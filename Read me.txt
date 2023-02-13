@@ -1,0 +1,7 @@
+If you want to generate the random data:
+
+simply open your cmd and type:
+
+pip install python-docx
+
+then run the python file. It will automatically generate the word file and required data as well.
