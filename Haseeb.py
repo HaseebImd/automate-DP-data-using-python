@@ -40,7 +40,7 @@ def Calculate_P_Matrices(minimum_P_matrices,min_P_length,max_p_length,min_P_elem
         doc.add_paragraph('Minimum Multiplications: '+str(m[1][len(Mat)-1]))
         doc.add_paragraph('Optimal Sequence : \n'+str(d))
         doc.add_paragraph('\n')
-    doc.save('Mahnor.docx')
+    doc.save('HaseebImd.docx')
 
 
 
